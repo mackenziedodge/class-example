@@ -1,3 +1,3 @@
 # class example
 
-Exammple of a directory.
+Example of a directory.
